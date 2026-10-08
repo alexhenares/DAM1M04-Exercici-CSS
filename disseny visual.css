@@ -63,8 +63,8 @@ h2::before {
   color: blue;
 }
 
-h1::after {
-  content: "";
+h2::after {
+  content: ".";
   font-size: 18px;
   color: gray;
 }
